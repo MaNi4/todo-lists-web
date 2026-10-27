@@ -1,0 +1,43 @@
+{
+ "env": {
+  "format": "mani4.todo-lists",
+  "v": 3,
+  "header": {
+   "at": 1793107071538,
+   "password": {
+    "kdf": {
+     "name": "Argon2id",
+     "t": 1,
+     "m": 8192,
+     "p": 1,
+     "salt": "T9es/gmtGTTqgvIU9iiwFg"
+    },
+    "wrapped": "yygXc4qMEADkUSggsu9cXlvztHQGdtGFgIYxbaXkUkTSOYZ11amU2wiZiikdhRl9HY0fANULVlkg7YEn"
+   },
+   "recovery": {
+    "salt": "zGWJAEklP3Yxa9ODrlvd/A==",
+    "pub": "BDIbDpWwijEMdxAosIG6jwCfZQtxsk0Qy7u5o3wBKgImhYR4tzPCtt1JfK8eQMEhaE+uVBg2/FeNVGcyG1Aw+KQ=",
+    "private": "pu5GeEAlmbqlsMQ2yoAb7ic+xRW2Ts8vJCuDgE1dG706BtSSG3huaWwN0EFt4eFAM+mnTNOk8LTq0t6ixHVFSk16UaSjwZEYJ0USd6oo+5GLU2lBupu/U1scilHfLWdftBM/WYWVA21Q8xKhLF0F4Iy/izbpQlpcP9hSqOXv6YffYz5HakkWWOpJUSINUg7RPNL42yv+1fVM3REo7wxWruFyAe9NpQ==",
+    "wrapped": {
+     "epk": "BPpmooPg+/zl4zBZngt3Hv06mtTmR3JQftMtGEADEXAD818g9wUYJI+thVXOnuWaQT5hmXIzi/Hr4VQTgvrtdSg=",
+     "ct": "oHUPYPcyjLV7ozDGj6TJ4XJN5JEP6bGcXwNZPD5H00zYL2H0Z6QdEf7NGLQYnTUKzf/QWlVw+7B8sCM3"
+    }
+   },
+   "mac": "u0p9kurOgxMyWSOBfd51bYGxgtRteNNiGi+6QmN/d1s="
+  },
+  "iv": "4gq9qNnJD7EZ9NHH",
+  "ct": "xtEbnt+MKcDn0sZFzv3+wMAmL7pa+hYYAXa74jEQfpCJKQFKWVS0Yf0vb2VPvdNQNxQ4CjoYvJpROxwnano6bwSey7ke3ez3mtKAk1YgXikhThFT661aLWKoVqoghbRo6oTNbJwF+emqyJ77Kgzh4RHm4fuYCc7sttv+Bh9H3HXXYlU3oIxfdp2hLH27KxXciELEbUP+0UQqhQhSbtZZFvTIWIYbPki6KWAjsVU/FJZQeLEqsZ+nc4X6bdWuAMm6/B3lFlHFx43yXUGj9GHIsM6dU9t1+/7ofsCv0ToacwNuXl8UATd4mq/ENIHSLkEez3tXg8WMjntOLRwZZzADKsuFKSJqDFR0asA3l7ciwNVhSAV/cfTX4O/w9V/BL/JIKa/bGQ2TbYNnVtIsIjwFT+2Z6lupJfbJLYRRcMIK4vH7ODjYm8uNKnVJA+5GATM3dxJ6IkV7EiOLSyeF8rIxXkPr/m2iTT34PQZwmC7gh2MYc+SftHq58riD/SxlV812O5rxMW+mxPayllxeJgTiVJzxIVGN0XV/1XEjmzWlz7KYNXKbmTFqCFKfSPqb4vNeECFJiNJPucvFtXMWHYHanfBgyKxotw0gD92OTh8fYr4SsdtPhOeyZsEvclq2i65kAMvhw+ZUkqMbNEOZBulzh3p02hkpuRCTOP8saxD+hRLQQO0W0AKSQmzGlPLSXsCqsoYHz4b4w3a74Li6Lk04sw14oorDYtogpogYm/j3JTsgH7kvoJ2hsKxWj/6Nx88iuhfHJgCOMvGYwmZ+qoWBzm5fI6S1oM23ZLwCc+zk0JCm+UwvtZA8xDnxig2slcBr54tsrFebwNzb6NwbN2Af2PNxYJGgq6ChHbcgR7lNxfAGn5Roi8+kr29Ka8AO1jcAaxUY7FYXBzwZKJwwwrsLlQGxvsPWutJb47sIZ+f/2tRn9deBL7P7/uLoDgZLS25mZMvwFpqTPUL/k+XSOc+FhvpITusQYy6+9SPUc4jfniHMZwBpuiNzHtpMFx5XzjH7NV318aPviTw180mQoQR5m5PothGAaRln0kidh/Oz4v85iC8JAhvSSRGdxmvMuW8EIntPaS3RbhPXGS0PR/2eDhLhW3l8/KwRdge5F+NZUzrf/mnfPz8PjgbC1w7oAQEnpILqIsNJp3xZIwGOYVdnFZzi1MO/ACHXi3J/s77fYN75cJoOc9qZxJ+LEIKAOZHWSqENqQPM7FQoPEnIgcvDdd5uk/yuTi+LjWMyjNrSlQOVP/oVDhD/QcDWzIinq7hOoa9fO8+HdVsOSjVLCwkRhYEnQUVSATSYwUUuqufxpObclja7zJG+UFbtOblm/NrQ7NBaaaH59gtQ4MsUT/yBsNTRaojYStcUMsAlRay2QEln0i0Oz24CGXBUZU39po2ursp9SdaFdDWQgky0AtwOUvYM9xCOuF22n/cBO/INagMGRArQkIdqvExDbntF6XjPMXca6SwbPEljFz84KQSfXe7FSHCb23N6ttHAXUI2SN6fP+7CjHJCOrGdaP64OoEFVBWckqXoaDoo+QkXWeGtngAUx0MX9Wbvoqcf0WveWui8rwO9ng9MyMz3ErleLzJS0TQNl/hWXlVLi/xE4EYzSjD9AHxvxA9Tc4nOm3yKIlFKqUdmlAF0LZlaHXXYoobXUr5SZOC7E902TDBiGGA4JUHTeAZOhPQN7DZx44RRzvFtK4Pc+nV5xHM+EADqEkIbOJRK8kaa0oquogOT6pPWO0MYYoGtm+IlLE/XMu7VEY7PpQ8e+o/7aWjFPTndsW8xfx09weMqz/RI8AT2JG4YdgGiF7oHIn328C6nlnejkpBBcpn56/SmAzXKRxLfgCVBZNZROtoc+VTHyl9+jgX28xwWrNqPSGyEclAnXR7fTzs81FRu1XLWvJJ+gxt0HW+Aif2XjdOga5ZWo5JWUUC/fbCZS8TDvBUd3znS3vql/aSiy+HMjxgkMCM6mvh+bzPVTxPUeaipru804CWRctY6xAQgBsbOgkqJ9lZqYdpGVuvntFbdCG/gFkEO+tnNf3aJeTJ6fQwoQP1mMsLoVMtxlkFZQvukFvj6kE2gg7NlN3syTZR4+t0vJSRAhGyZlvl6kKvcPXd7kcVJNBJi0ud3zBAYp8GV5rdxEVr7Nv/QsDKhYkfRQtIHRQvHE2c+bualpskLfvGoT9609Uds8NGORvYWA8plkkqrqLPnXImWd7GPizimTjvWpuU2gdQ8wFCjYycPAR3tXWGClPNAy5T/Oo/7GNhsgUNdJyN/5fzgBTXSloNxt9zmdNTCW3+PcOpa7na1LD2hLN1k9JuOnKlseoG8CpGe4N3CwEnBiflSqOIM+TQc8AQAaUjxZmMCg8p9FmvXhimBahnFbOye2w0NlcoDnr1wnMRplwyVsiSiIjmwKsqYHS1+cHehc47UgS7zOkt4ErbHgTe5UArA/Yr3Z3MfFyx+kn49tc9W2Cy3VBwGLfNnaJInXj2/nrpb96QpitWHic4Z2i+sGp7xwraaZkni3kNpS4erbItBAmBGWCq5XLWmTiZCf2JZunoy/nW4hDScu8DJywo52vyWJ0Xnf5iySo7aKBxIIt6w4Yl3zI/1srO9DhECEL1dvRuIR1Zq49XZyZe9euqPpvGQVvsSU/IAfj/304eFvWL6puX7ePsm3W/ow4I4epUGN8Ces39ped0OYPJuyjBYMkTchOCBmBsw7dPv8YrVurj/MnL3TyiUeKM1bPa7UFw/v6RDUljSB/PLOtBwqUHcvzFKvg7C7ovtepGSqDDku9RGp8LD7VU+liZoYkZtUywXwaZGLWloF5SzB+3AtHgKUbRLVLzjEUubpnZwfXVJrbq0NTEyd/mKY573g42WsxsHOOPL3fpYloZr/iSanhMpVFudC1zE5t7BdWeXGsQuBxSTaz+dDILBNmtjvrI9qZrj/7jZW8gAPb47ILjoDzxZOUyeoJKN9Xa1emb2MrvkxzoeCPDmF13xUHDQduSJ0zmXjcL5GpxkAU+YAYR9StK+DXKuAVjZWVwF7WBbCDhdhvcpqh8WnHJO0HasPmOG9i/Nlx/c8sFMERskkcVR7tt7/Zhs9vKOs324jhfpq39fLl4rjKEfoyPYmZd176XLZCs5LdAyoQlXiKCm48suCigQRThcyUKVl8QRwky08tANxC0tOVTJNDI8VJwn1UvDldBjB6c6uMdvr1IwDu7ZQXEN7dPlxJbUpJy7VniHOmMFQqXQKjbFBVCibjjF4Dm3v3lwd6KO/dzqldiEgDtpBOMsGtmMJgRogzoBH/HzstqyZt2ZSl/lnHea7DCzJ5QhgXAJZKPPlcP8n6rregQvkO3VefKi7XpIWHRIKTe/KWyWWr+QA/kZfe5lBbiH8+Sorv1tPhAtLNy392AsVE109LA6T44Iz985UszOVDLL3EPQS5/LYYMldp8y8b8ldMiOciMgXJiLW0m2DqBYSrhO+1Ci7m5wSufCONwr0Xb2RgPKKUIg8eQZanlrgszvC2rHokMyiIRr8uvu3pCE7XNFXTPiIHGLH2P1OU/bzEBFnoDUCpq6m4VB7NhnKkMIwU2MG0UBUsiuUCofJ59T+V/G0qGgnZ/4JjyTgMJoU4bBbNW9xaU7bkczwZVgT+Ktx+pRhOE4ylTt5AmXefMf7Op8um6J4p4Dk73jwQcH/bN3ZeQvoV6rufXY"
+ },
+ "password": "correct horse battery",
+ "recovery": "JGTQ-V68W-ERZN-RX36-6B5Y-46ZX-JN0J-55XX",
+ "listPassword": "1234",
+ "expect": {
+  "names": [
+   "Nákup",
+   "Darčeky",
+   "Z telefónu"
+  ],
+  "added": "Pridané webom",
+  "sealed": "Tajné z webu"
+ }
+}

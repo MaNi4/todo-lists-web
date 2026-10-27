@@ -1,0 +1,79 @@
+{
+ "env": {
+  "format": "mani4.todo-lists",
+  "v": 3,
+  "header": {
+   "at": 1793107071538,
+   "password": {
+    "kdf": {
+     "name": "Argon2id",
+     "t": 1,
+     "m": 8192,
+     "p": 1,
+     "salt": "T9es/gmtGTTqgvIU9iiwFg"
+    },
+    "wrapped": "yygXc4qMEADkUSggsu9cXlvztHQGdtGFgIYxbaXkUkTSOYZ11amU2wiZiikdhRl9HY0fANULVlkg7YEn"
+   },
+   "recovery": {
+    "salt": "zGWJAEklP3Yxa9ODrlvd/A==",
+    "pub": "BDIbDpWwijEMdxAosIG6jwCfZQtxsk0Qy7u5o3wBKgImhYR4tzPCtt1JfK8eQMEhaE+uVBg2/FeNVGcyG1Aw+KQ=",
+    "private": "pu5GeEAlmbqlsMQ2yoAb7ic+xRW2Ts8vJCuDgE1dG706BtSSG3huaWwN0EFt4eFAM+mnTNOk8LTq0t6ixHVFSk16UaSjwZEYJ0USd6oo+5GLU2lBupu/U1scilHfLWdftBM/WYWVA21Q8xKhLF0F4Iy/izbpQlpcP9hSqOXv6YffYz5HakkWWOpJUSINUg7RPNL42yv+1fVM3REo7wxWruFyAe9NpQ==",
+    "wrapped": {
+     "epk": "BPpmooPg+/zl4zBZngt3Hv06mtTmR3JQftMtGEADEXAD818g9wUYJI+thVXOnuWaQT5hmXIzi/Hr4VQTgvrtdSg=",
+     "ct": "oHUPYPcyjLV7ozDGj6TJ4XJN5JEP6bGcXwNZPD5H00zYL2H0Z6QdEf7NGLQYnTUKzf/QWlVw+7B8sCM3"
+    }
+   },
+   "mac": "u0p9kurOgxMyWSOBfd51bYGxgtRteNNiGi+6QmN/d1s="
+  },
+  "iv": "fm5f0kugSRCTyhq1",
+  "ct": "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"
+ },
+ "password": "correct horse battery",
+ "recovery": "JGTQ-V68W-ERZN-RX36-6B5Y-46ZX-JN0J-55XX",
+ "listPassword": "1234",
+ "token": "E8uHhQXCZ/B1LsZitL0uqHqKLf9zMXB1vdigS+289nWRt7Y47p5P4iAobqIATHfyVOpcni6g+Bwj5zlvS8obmT725sU=",
+ "tokenText": "test_token_not_real_xxxxxxxxxxxxxxxxxxxx",
+ "view": [
+  {
+   "id": "5819961f5d32e108",
+   "name": "Nákup",
+   "color": "",
+   "locked": false,
+   "unlocked": false,
+   "recoverable": false,
+   "open": 2,
+   "stale": 0,
+   "items": [
+    {
+     "id": "19982db1972d7496",
+     "text": "Vajcia (10 ks)",
+     "done": false,
+     "completed": 0
+    },
+    {
+     "id": "87be8b68490c4477",
+     "text": "Chlieb",
+     "done": false,
+     "completed": 0
+    },
+    {
+     "id": "9e597babc2ea8efc",
+     "text": "Mlieko",
+     "done": true,
+     "completed": 1793107071553
+    }
+   ]
+  },
+  {
+   "id": "31c66aa68981767c",
+   "name": "Darčeky",
+   "color": "",
+   "locked": true,
+   "unlocked": false,
+   "recoverable": true,
+   "open": 1,
+   "stale": 0,
+   "items": null
+  }
+ ]
+}
